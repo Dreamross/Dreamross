@@ -33,6 +33,11 @@ I'm a Fullstack JavaScript Developer
 ![VScode](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/docker%20-%23E34F26.svg?&style=for-the-badge&logo=docker&logoColor=white&color=1396C3)
+![Nginx](https://img.shields.io/badge/nginx%20-%23E34F26.svg?&style=for-the-badge&logo=nginx&logoColor=white&color=009137)
+![Sass](https://img.shields.io/badge/sass%20-%23E34F26.svg?&style=for-the-badge&logo=sass&logoColor=white&color=C96195)
+![MongoDB](https://img.shields.io/badge/mongodb%20-%23E34F26.svg?&style=for-the-badge&logo=mongodb&logoColor=white&color=0FA54D)
+![MSSQL](https://img.shields.io/badge/MSSQL%20-%23E34F26.svg?&style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white&color=B5383B)
 
 <br>
 <div align="center">
